@@ -1,0 +1,4 @@
+
+# ignoring all executables so that a compilation of the code is a must
+
+*.exe
